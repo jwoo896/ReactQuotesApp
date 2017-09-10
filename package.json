@@ -1,6 +1,9 @@
 {
   "name": "ReactQuotesApp",
   "private": true,
+  "engines": {
+    "yarn": "^0.25.0"
+  },
   "dependencies": {
     "@rails/webpacker": "^3.0.1",
     "axios": "^0.16.2",
